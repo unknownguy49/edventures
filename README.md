@@ -1,4 +1,4 @@
-# Website Documentation
+# Edventures - Bridging Educational Gaps
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -21,12 +21,11 @@ This is a web-based application built using HTML, CSS, and JavaScript. The websi
 
 ## File Structure
 ```
-project-folder/
+project-folder/public
 │── index.html            # Main HTML file
 │── styles.css            # Stylesheet for the website
 │── script.js             # JavaScript file for interactivity
 │── assets/               # Folder containing images and other assets
-│── api/                  # Folder containing backend configurations (if any)
 ```
 
 ## Installation
@@ -52,7 +51,3 @@ project-folder/
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-This project is open-source and available under the MIT License.
-
